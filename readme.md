@@ -73,26 +73,26 @@ Below is an example of how the program works, including creating, modifying, and
 ## Methods Overview
 
 1. Person:
-    - new(): Creates a new Person with the given details.
-    - display_info(): Displays all the information of a Person.
-    - set_name(): Updates the name of the person.
-    - set_email(): Updates the email of the person.
-    - set_address(): Updates the address of the person.
-    - get_name(): Retrieves the name of the person.
-    - get_age(): Retrieves the age of the person.
-    - get_birth_date(): Retrieves the birth date of the person.
-    - get_email(): Retrieves the email of the person.
-    - get_address(): Retrieves the address of the person.
-    - introduce(): Prints a message introducing the person.
+    - `new()`: Creates a new Person with the given details.
+    - `display_info()`: Displays all the information of a Person.
+    - `set_name()`: Updates the name of the person.
+    - `set_email()`: Updates the email of the person.
+    - `set_address()`: Updates the address of the person.
+    - `get_name()`: Retrieves the name of the person.
+    - `get_age()`: Retrieves the age of the person.
+    - `get_birth_date()`: Retrieves the birth date of the person.
+    - `get_email()`: Retrieves the email of the person.
+    - `get_address()`: Retrieves the address of the person.
+    - `introduce()`: Prints a message introducing the person.
 
 2. Student
-    - new(): Creates a new Student instance, including the associated Person information.
-    - display_student_info(): Displays both Person and student-specific information (ID and major).
-    - set_major(): Updates the student's major.
-    - set_student_id(): Updates the student's ID.
-    - get_student_id(): Retrieves the student's ID.
-    - get_major(): Retrieves the student's major.
-    - introduce(): Prints a message introducing the student, including their major.
+    - `new()`: Creates a new Student instance, including the associated Person information.
+    - `display_student_info()`: Displays both Person and student-specific information (ID and major).
+    - ``set_major()`: Updates the student's major.
+    - `set_student_id()`: Updates the student's ID.
+    - `get_student_id()`: Retrieves the student's ID.
+    - `get_major()`: Retrieves the student's major.
+    - `introduce()`: Prints a message introducing the student, including their major.
 
 ## Contributing
 
