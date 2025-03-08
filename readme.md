@@ -27,7 +27,7 @@ The program demonstrates how to create and manipulate instances of `Person` and 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/POO.git
+   git clone https://github.com/lbustio/POO.git
    ```
 
 2. Navigate to the project folder:
